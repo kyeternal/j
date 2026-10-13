@@ -1,0 +1,7 @@
+{
+  "name": "SIMPEL-LAB",
+  "description": "Sistem Informasi Manajemen & Peminjaman Alat Laboratorium Modern Terpadu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
